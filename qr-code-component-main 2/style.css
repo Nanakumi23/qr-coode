@@ -31,7 +31,17 @@ body{
     
   }
 
-  p{
+  .title{
     position:absolute; 
     bottom:100px;
+    text-align: center;
+  }
+
+  .sub-title{
+    position:absolute; 
+    bottom:30px;
+    text-align: center;
+    font-weight: normal;
+    font-size: small;
+    color: grey;
   }
